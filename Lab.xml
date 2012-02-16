@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lab xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>Lab1Test</Id>
+  <Technologies>
+	<Technology>.NET Framework</Technology>
+  </Technologies>
+  <Author>
+    <Blog>
+    </Blog>
+    <Email>
+    </Email>
+    <Name>daiken</Name>
+  </Author>
+  <Description>This is the Lab1Test Original version.</Description>  
+  <Document ConversionType="Html">.\Lab.docx</Document>
+  <!--<Setup ConversionType="Html">.\Source\Setup\Setup.docx</Setup>-->
+  <Title>Lab1Test</Title>
+  <Version>1.0</Version>
+  <Source>.\Source</Source>
+  <DependencyChecker ScriptsFolder="..\..\..\Packages\WAZplatTrainingKit\Assets\DependencyChecker\scripts">.\Source\Setup\Dependencies.dep</DependencyChecker>
+</Lab>
