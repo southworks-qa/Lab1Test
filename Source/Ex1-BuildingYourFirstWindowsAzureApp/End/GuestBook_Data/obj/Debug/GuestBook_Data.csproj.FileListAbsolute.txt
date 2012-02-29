@@ -1,0 +1,7 @@
+D:\Proyectos\azuretk-v4\managed\development\current\Labs\AzureServicesPlatform\IntroductionToWindowsAzureVS2010\Source\Ex1-BuildingYourFirstWindowsAzureApp\CS\End\GuestBook_Data\bin\Debug\GuestBook_Data.dll
+D:\Proyectos\azuretk-v4\managed\development\current\Labs\AzureServicesPlatform\IntroductionToWindowsAzureVS2010\Source\Ex1-BuildingYourFirstWindowsAzureApp\CS\End\GuestBook_Data\bin\Debug\GuestBook_Data.pdb
+D:\Proyectos\azuretk-v4\managed\development\current\Labs\AzureServicesPlatform\IntroductionToWindowsAzureVS2010\Source\Ex1-BuildingYourFirstWindowsAzureApp\CS\End\GuestBook_Data\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+D:\Proyectos\azuretk-v4\managed\development\current\Labs\AzureServicesPlatform\IntroductionToWindowsAzureVS2010\Source\Ex1-BuildingYourFirstWindowsAzureApp\CS\End\GuestBook_Data\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+D:\Proyectos\azuretk-v4\managed\development\current\Labs\AzureServicesPlatform\IntroductionToWindowsAzureVS2010\Source\Ex1-BuildingYourFirstWindowsAzureApp\CS\End\GuestBook_Data\obj\Debug\GuestBook_Data.csprojResolveAssemblyReference.cache
+D:\Proyectos\azuretk-v4\managed\development\current\Labs\AzureServicesPlatform\IntroductionToWindowsAzureVS2010\Source\Ex1-BuildingYourFirstWindowsAzureApp\CS\End\GuestBook_Data\obj\Debug\GuestBook_Data.dll
+D:\Proyectos\azuretk-v4\managed\development\current\Labs\AzureServicesPlatform\IntroductionToWindowsAzureVS2010\Source\Ex1-BuildingYourFirstWindowsAzureApp\CS\End\GuestBook_Data\obj\Debug\GuestBook_Data.pdb

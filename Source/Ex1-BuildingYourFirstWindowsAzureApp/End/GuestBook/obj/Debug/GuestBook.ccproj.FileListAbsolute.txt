@@ -1,0 +1,1 @@
+D:\Proyectos\azuretk-v4\managed\development\current\Labs\AzureServicesPlatform\IntroductionToWindowsAzureVS2010\Source\Ex1-BuildingYourFirstWindowsAzureApp\CS\End\GuestBook\bin\Debug\ServiceConfiguration.cscfg
