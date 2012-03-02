@@ -1,19 +1,18 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <DependencyCheckerConfiguration version="2.0">
-  <title>Windows Azure Training Kit</title>
-
-  <dependencies>
-    <dependency hint="SEOToolkit" name="Search Engine Optimization Toolkit" description="" helpLink="http://link1" 
-                type="WebPI" 
-                enableSkip="true" />
-    <dependency hint="WDeploy_v2" name="Web Deploy" description="" helpLink="http://link1" type="WebPI" 
-                optional="true" />
-    <dependency hint="UrlRewrite2" name="URL Rewrite 2.0" description="" helpLink="http://link1" type="WebPI" />
-    <dependency hint="WebMatrix" name="Microsoft Web Matrix" description="" helpLink="http://link1" type="WebPI" />
-
-    <dependency hint="Windows Identity Foundation SDK 4.0; 6.1.7600.16436" name="Windows Identity Foundation SDK 4.0" description="The Windows Identity Foundation SDK provides templates for use with Visual Studio and code samples. This download requires the Windows Identity Foundation runtime be present." helpLink="http://www.microsoft.com/download/en/details.aspx?displaylang=en&amp;id=4451" 
-                type="Uninstall" enableSkip="true" />
-    <dependency hint="System.Data.Services.client.dll;3.5.30729.5000" name="ADO.NET Data Services Update for .NET Framework 3.5 SP1" description="" helpLink="http://www.microsoft.com/downloads/en/details.aspx?FamilyID=4B710B89-8576-46CF-A4BF-331A9306D555" 
-                type="GAC" enableSkip="true"/>
-  </dependencies>
+	<title>Introduction to Windows Azure</title>
+	<dependencies>
+		<dependency 
+			hint="WindowsAzureToolsVS2010" 
+			name="Windows Azure Tools for Microsoft Visual Studio 2010 1.6 or higher" 
+			helpLink="http://www.microsoft.com/web/gallery/install.aspx?appid=WindowsAzureToolsVS2010" 
+			disableSkip="false"
+			type="WebPI" />
+    </dependencies>
+  <setupCommands>
+    <setup 
+		command="setup.cmd" 
+		name="Setup Script" 
+		description="Executing setup scripts..." />
+  </setupCommands>	
 </DependencyCheckerConfiguration>
