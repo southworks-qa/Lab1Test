@@ -15,7 +15,7 @@
   <Document ConversionType="Html">.\HOL.md</Document>
   <!--<Setup ConversionType="Html">.\Source\Setup\Setup.docx</Setup>-->
   <Title>Introduction to Windows Azure</Title>
-  <Version>3.0</Version>
+  <Version>3.1</Version>
   <Source>.\source</Source>
   <DependencyChecker ScriptsFolder="env:PackagePath\Assets\DependencyChecker\scripts">.\source\Setup\Dependencies.dep</DependencyChecker>
   <CustomProperties>    
