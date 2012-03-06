@@ -11,7 +11,7 @@
     </Email>
     <Name>wwegner</Name>
   </Author>
-  <Description>In this hands-on labiajsofijasoidjgaowrjoigskldnfiovcwaeniosdfc, you will explore the basic elements of a Windows Azure service by creating a simple GuestBook application that demonstrates many features of Windows Azure, including web and worker roles, blob storage, table storage, and queues.</Description>  
+  <Description>In this hands-on, you will explore the basic elements of a Windows Azure service by creating a simple GuestBook application that demonstrates many features of Windows Azure, including web and worker roles, blob storage, table storage, and queues.</Description>  
   <Document ConversionType="Html">.\HOL.md</Document>
   <!--<Setup ConversionType="Html">.\Source\Setup\Setup.docx</Setup>-->
   <Title>Introduction to Windows Azure</Title>
