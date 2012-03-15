@@ -9,7 +9,7 @@
     </Blog>
     <Email>
     </Email>
-    <Name>wwegner</Name>
+    <Name>Wade Wegner</Name>
   </Author>
   <Description>In this hands-on, you will explore the basic elements of a Windows Azure service by creating a simple GuestBook application that demonstrates many features of Windows Azure, including web and worker roles, blob storage, table storage, and queues.</Description>  
   <Document ConversionType="Html">.\HOL.md</Document>
