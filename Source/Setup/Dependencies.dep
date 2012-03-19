@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DependencyCheckerConfiguration version="2.0">
+	<title>Introduction to Windows Azure</title>
+	<dependencies>
+		<dependency 
+			hint="WindowsAzureToolsVS2010" 
+			name="Windows Azure Tools for Microsoft Visual Studio 2010 1.6 or higher" 
+			helpLink="http://www.microsoft.com/web/gallery/install.aspx?appid=WindowsAzureToolsVS2010" 
+			disableSkip="false"
+			type="WebPI" />
+    </dependencies>
+  <setupCommands>
+    <setup 
+		command="setup.cmd" 
+		name="Setup Script" 
+		description="Executing setup scripts..." />
+  </setupCommands>	
+</DependencyCheckerConfiguration>
