@@ -3,19 +3,20 @@
   <Id>IntroToWindowsAzureLabVS2010</Id>
 <Technologies>
     <Technology>Windows Azure</Technology>
+    <Technology>Windows Phone</Technology>
   </Technologies>
   <Author>
     <Blog>
     </Blog>
     <Email>
     </Email>
-    <Name>wwegner</Name>
+    <Name>Wade Wegner</Name>
   </Author>
-  <Description>In this hands-on lab, you will explore the basic elements of a Windows Azure service by creating a simple GuestBook application that demonstrates many features of Windows Azure, including web and worker roles, blob storage, table storage, and queues.</Description>  
+  <Description>In this hands-on, you will explore the basic elements of a Windows Azure service by creating a simple GuestBook application that demonstrates many features of Windows Azure, including web and worker roles, blob storage, table storage, and queues.</Description>  
   <Document ConversionType="Html">.\HOL.md</Document>
   <!--<Setup ConversionType="Html">.\Source\Setup\Setup.docx</Setup>-->
   <Title>Introduction to Windows Azure</Title>
-  <Version>3.0</Version>
+  <Version>1.1</Version>
   <Source>.\source</Source>
   <DependencyChecker ScriptsFolder="env:PackagePath\Assets\DependencyChecker\scripts">.\source\Setup\Dependencies.dep</DependencyChecker>
   <CustomProperties>    
