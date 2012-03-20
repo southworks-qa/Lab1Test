@@ -18,7 +18,7 @@
   <Title>Introduction to Windows Azure</Title>
   <Version>1.1</Version>
   <Source>.\source</Source>
-  <DependencyChecker ScriptsFolder="env:PackagePath\Assets\DependencyChecker\scripts">.\source\Setup\Dependencies.dep</DependencyChecker>
+  <DependencyChecker ScriptsFolder="env:PackagePath\Assets\DependencyChecker\scripts">.\source\Setup\Dependencies.depi</DependencyChecker>
   <CustomProperties>    
 	<Property Name="GithHubRepository" Value="https://github.com/microsoft-dpe/HOL-IntroToWindowsAzure" />
   </CustomProperties>
