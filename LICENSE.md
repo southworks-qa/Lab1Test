@@ -4,3 +4,5 @@ The **Introduction to Windows Azure Hands-on Lab** is licensed under the terms o
 You may use it according to the license as is most appropriate for your project on a case-by-case basis.
 
 The terms of this license can be found in http://www.apache.org/licenses/LICENSE-2.0
+
+TEST CHANGESET____________________________
