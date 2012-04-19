@@ -2,7 +2,6 @@
 <Lab xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
   <Id>IntroToWindowsAzureLabVS2010</Id>
 <Technologies>
-    <Technology>Windows Azure</Technology>
     <Technology>Windows Phone</Technology>
   </Technologies>
   <Author>
@@ -16,7 +15,7 @@
   <Document ConversionType="Html">.\HOL.md</Document>
   <!--<Setup ConversionType="Html">.\Source\Setup\Setup.docx</Setup>-->
   <Title>Introduction to Windows Azure</Title>
-  <Version>1.1</Version>
+  <Version>1.2</Version>
   <Source>.\source</Source>
   <DependencyChecker ScriptsFolder="env:PackagePath\Assets\DependencyChecker\scripts">.\source\Setup\Dependencies.depi</DependencyChecker>
   <CustomProperties>    
