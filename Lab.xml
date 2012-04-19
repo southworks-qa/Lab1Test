@@ -3,6 +3,7 @@
   <Id>IntroToWindowsAzureLabVS2010</Id>
 <Technologies>
     <Technology>Windows Phone</Technology>
+    <Technology>Windows Azure</Technology>
   </Technologies>
   <Author>
     <Blog>
