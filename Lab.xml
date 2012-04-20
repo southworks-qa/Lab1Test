@@ -2,7 +2,6 @@
 <Lab xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
   <Id>IntroToWindowsAzureLabVS2010</Id>
 <Technologies>
-    <Technology>Windows Phone</Technology>
     <Technology>Windows Azure</Technology>
   </Technologies>
   <Author>
